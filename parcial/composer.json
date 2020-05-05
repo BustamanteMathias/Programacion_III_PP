@@ -1,0 +1,12 @@
+{
+    "name": "mathias/tp1_piii",
+    "authors": [
+        {
+            "name": "BustamanteMathias",
+            "email": "bustamantemathias.tec@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
